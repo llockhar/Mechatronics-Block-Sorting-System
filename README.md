@@ -1,8 +1,8 @@
 # Mechatronics-Block-Sorting-System
-Programming a conveyor system to sort blocks using AVR microcontroller 
+C program for sorting blocks on a conveyor system using AVR microcontroller 
 
 ## System Components
-The sorting system has two motors and three sensors all controlled with C code on a microcontroller:
+The sorting system has two motors and three sensors all controlled with a microcontroller:
 * 8-bit AVR Microcontroller: ATmega32U6
 * Conveyor motor: L298 Dual Full-Bridge Motor Driver
 * Conveyor exit gate: OPB819Z Slotted Optical Switch
